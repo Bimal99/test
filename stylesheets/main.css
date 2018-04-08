@@ -1,0 +1,14 @@
+/* line 1, ../sass/module/_navbar.scss */
+.navbar-inverse {
+  background-color: #0000b3;
+}
+
+/* line 5, ../sass/module/_navbar.scss */
+.navbar {
+  border-radius: 0px;
+  border: 0px;
+}
+/* line 9, ../sass/module/_navbar.scss */
+.navbar .navbar-brand {
+  color: yellow;
+}
