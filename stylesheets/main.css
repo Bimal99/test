@@ -1,3 +1,21 @@
+@import url("https://fonts.googleapis.com/css?family=Do+Hyeon");
+/* line 6, ../sass/Base/_base.scss */
+.section-pad {
+  padding: 4px 10px;
+}
+
+/* line 12, ../sass/Base/_base.scss */
+.section-title {
+  font-family: 'Do Hyeon', sans-serif;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+/* line 19, ../sass/Base/_base.scss */
+p {
+  text-align: justity;
+}
+
 /* line 1, ../sass/module/_navbar.scss */
 .navbar-inverse {
   background-color: #0000b3;
